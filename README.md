@@ -1,4 +1,4 @@
-# juniperConfiParser
+# juniperConfigParser
 > Old juniper firewall config parser
 
 Convert old juniper config to sqlite database and csv.
